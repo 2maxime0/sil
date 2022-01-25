@@ -24,5 +24,6 @@
 	 
 	?>
 	<br>Heure de départ conseillé : <?php echo date('H:i',($ha+$t)); ?>
+	<br>&copy; Martin SEBIROT
 </body>
 </html>
